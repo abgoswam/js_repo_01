@@ -1,0 +1,26 @@
+{
+  "name": "js_repo_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abgoswam/js_repo_01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abgoswam/js_repo_01/issues"
+  },
+  "homepage": "https://github.com/abgoswam/js_repo_01#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
