@@ -32,3 +32,9 @@ TBD
 
     ```bash
     npm test
+
+
+### Cleanup old files
+
+rm -rf node_modules/ package-lock.json
+git clean -fdx
